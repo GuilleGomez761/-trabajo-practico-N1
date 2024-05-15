@@ -1,0 +1,5 @@
+git add: Se utiliza para agregar cambios en los archivos al área de preparación (staging area) antes de realizar un commit.
+git commit: Crea un nuevo commit con los cambios en el área de preparación y los guarda en el repositorio local junto con un mensaje descriptivo.
+git push: Envía los commits locales al repositorio remoto en GitHub.
+git pull: Obtiene los cambios desde el repositorio remoto y los fusiona con el repositorio local.
+git clone: Crea una copia local de un repositorio remoto en GitHub.
